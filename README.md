@@ -1,109 +1,112 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                      ANIMATED HEADER                       -->
+<!--                      HEADER                               -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0a0f1e,60:0d1f3c,100:0a2a4a&height=280&section=header&text=LAKSHYA%20VERMA&fontSize=62&fontColor=00d4ff&fontAlignY=45&desc=Data%20Engineer%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Analytics%20Engineer&descSize=16&descAlignY=66&descColor=7dd3fc&animation=fadeIn&stroke=00d4ff&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1e,50:0d1626,100:0a0f1e&height=200&section=header&text=LAKSHYA%20VERMA&fontSize=56&fontColor=e2e8f0&fontAlignY=45&desc=Data%20Engineer%20%7C%20AI%2FML%20%7C%20Analytics%20Engineer&descSize=15&descAlignY=68&descColor=94a3b8&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=700&height=45&lines=Building+intelligent+data+pipelines+since+2022;1M%2B+rows+processed+across+production+systems;Turning+raw+chaos+into+executive-grade+insight;NL+%E2%86%92+SQL+%E2%86%92+Decisions+in+seconds;B.Tech+CSE+(AI%2FML)+%C2%B7+Manipal+Institute+2027" alt="Typing SVG"/>
+<!-- Cycling taglines — business tone -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&height=40&lines=Transforming+raw+data+into+executive-grade+decisions;Automating+workflows+that+reclaim+engineering+hours;1M%2B+rows+queried+%7C+50%25+avg+operational+overhead+cut;NL+%E2%86%92+SQL+%E2%86%92+Decisions%2C+in+seconds;Precision+ML+pipelines+from+ingestion+to+insight" alt="Typing SVG"/>
 
 <br/><br/>
 
 <a href="mailto:vermalakshya12@gmail.com">
-  <img src="https://img.shields.io/badge/vermalakshya12%40gmail.com-0a0f1e?style=for-the-badge&logo=gmail&logoColor=00d4ff&labelColor=0a0f1e"/>
+  <img src="https://img.shields.io/badge/vermalakshya12%40gmail.com-0f172a?style=flat-square&logo=gmail&logoColor=38bdf8"/>
 </a>
+&nbsp;
 <a href="https://github.com/lakshyaverma2004">
-  <img src="https://img.shields.io/badge/lakshyaverma2004-0a0f1e?style=for-the-badge&logo=github&logoColor=00d4ff&labelColor=0a0f1e"/>
+  <img src="https://img.shields.io/badge/GitHub-0f172a?style=flat-square&logo=github&logoColor=38bdf8"/>
 </a>
+&nbsp;
 <a href="#">
-  <img src="https://img.shields.io/badge/LinkedIn-0a0f1e?style=for-the-badge&logo=linkedin&logoColor=00d4ff&labelColor=0a0f1e"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=flat-square&logo=linkedin&logoColor=38bdf8"/>
 </a>
+&nbsp;
+<img src="https://img.shields.io/badge/B.Tech%20CSE%20(AI%2FML)-Manipal%20Institute%20%C2%B7%202027-0f172a?style=flat-square&logo=mortarboard&logoColor=38bdf8"/>
 
 </div>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--           METRICS + ACTIVITY GRAPH SECTION                -->
+<!--                     METRICS ROW                           -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- Animated metric counters via shields -->
-<img src="https://img.shields.io/badge/PROJECTS-6-00d4ff?style=for-the-badge&labelColor=0a0f1e&color=0d1f3c&logo=buffer&logoColor=00d4ff"/>
+<img src="https://img.shields.io/badge/6%20Projects-Delivered-1e3a5f?style=for-the-badge&logo=checkmarx&logoColor=38bdf8&labelColor=0f172a"/>
 &nbsp;
-<img src="https://img.shields.io/badge/INTERNSHIPS-2-00d4ff?style=for-the-badge&labelColor=0a0f1e&color=0d1f3c&logo=briefcase&logoColor=00d4ff"/>
+<img src="https://img.shields.io/badge/2%20Internships-Completed-1e3a5f?style=for-the-badge&logo=handshake&logoColor=38bdf8&labelColor=0f172a"/>
 &nbsp;
-<img src="https://img.shields.io/badge/ROWS%20ANALYZED-1M%2B-00d4ff?style=for-the-badge&labelColor=0a0f1e&color=0d1f3c&logo=databricks&logoColor=00d4ff"/>
+<img src="https://img.shields.io/badge/1M%2B%20Rows-Analyzed-1e3a5f?style=for-the-badge&logo=databricks&logoColor=38bdf8&labelColor=0f172a"/>
 &nbsp;
-<img src="https://img.shields.io/badge/AVG%20TIME%20SAVED-~50%25-00d4ff?style=for-the-badge&labelColor=0a0f1e&color=0d1f3c&logo=speedtest&logoColor=00d4ff"/>
+<img src="https://img.shields.io/badge/~50%25-Time%20Saved-1e3a5f?style=for-the-badge&logo=lightning&logoColor=38bdf8&labelColor=0f172a"/>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                     GITHUB STATS                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=lakshyaverma2004&show_icons=true&theme=transparent&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8&border_color=1e3a5f&border_radius=6&hide_border=false&rank_icon=github&count_private=true"/>
+&nbsp;&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyaverma2004&layout=compact&theme=transparent&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8&border_color=1e3a5f&border_radius=6&hide_border=false&langs_count=6"/>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--               3D ANIMATED TECH STACK                      -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+**`─────────────────── TECH STACK ───────────────────`**
+
+<br/>
+
+<a href="#"><img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode,sklearn&theme=dark&perline=7"/></a>
 
 <br/><br/>
 
-<!-- Activity graph sits directly under the metric badges -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshyaverma2004&bg_color=0a0f1e&color=00d4ff&line=1e4a6e&point=00d4ff&area=true&area_color=0d2a45&border_color=1a3a5c&radius=12&hide_border=false&custom_title=Commit%20Activity" width="100%"/>
+<img src="https://img.shields.io/badge/Pandas-0f172a?style=flat-square&logo=pandas&logoColor=38bdf8"/>
+<img src="https://img.shields.io/badge/NumPy-0f172a?style=flat-square&logo=numpy&logoColor=38bdf8"/>
+<img src="https://img.shields.io/badge/Matplotlib-0f172a?style=flat-square&logo=plotly&logoColor=38bdf8"/>
+<img src="https://img.shields.io/badge/n8n-0f172a?style=flat-square&logo=n8n&logoColor=38bdf8"/>
+<img src="https://img.shields.io/badge/Gemini_API-0f172a?style=flat-square&logo=google&logoColor=38bdf8"/>
+<img src="https://img.shields.io/badge/Power_BI-0f172a?style=flat-square&logo=powerbi&logoColor=38bdf8"/>
+<img src="https://img.shields.io/badge/Excel-0f172a?style=flat-square&logo=microsoftexcel&logoColor=38bdf8"/>
+<img src="https://img.shields.io/badge/Streamlit-0f172a?style=flat-square&logo=streamlit&logoColor=38bdf8"/>
+<img src="https://img.shields.io/badge/DAX_Studio-0f172a?style=flat-square&logo=microsoftpowerpoint&logoColor=38bdf8"/>
+<img src="https://img.shields.io/badge/MS_SQL_Server-0f172a?style=flat-square&logo=microsoftsqlserver&logoColor=38bdf8"/>
 
 </div>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                      GITHUB STATS                         -->
+<!--     PROJECTS — all names cycle in one typing animation    -->
+<!--     Same effect as the header tagline rotator             -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=lakshyaverma2004&show_icons=true&theme=transparent&bg_color=0a0f1e&title_color=00d4ff&text_color=7dd3fc&icon_color=00d4ff&border_color=1a3a5c&border_radius=12&hide_border=false&rank_icon=github&count_private=true"/>
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyaverma2004&layout=compact&theme=transparent&bg_color=0a0f1e&title_color=00d4ff&text_color=7dd3fc&icon_color=00d4ff&border_color=1a3a5c&border_radius=12&hide_border=false&langs_count=6"/>
+**`─────────────────── PROJECTS ───────────────────`**
+
+<br/>
+
+<!-- All 7 project names cycle here, one by one -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2200&pause=900&color=38BDF8&center=true&vCenter=true&width=760&height=50&lines=automated-data-governor;invoice-data-extraction;nl-to-sql-query-bot;financial-analytics;hospitality-analytics-eda;executive-adhoc-analysis;TradingDATA-insights+%E2%80%94+predictive-ml" alt="Projects cycling"/>
 
 </div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                       TECH STACK                          -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## `< Tech Stack />`
-
-<br/>
-
-**Languages & Query**
-
-![Python](https://img.shields.io/badge/Python-0a0f1e?style=for-the-badge&logo=python&logoColor=00d4ff)
-![SQL](https://img.shields.io/badge/SQL-0a0f1e?style=for-the-badge&logo=postgresql&logoColor=00d4ff)
-![MySQL](https://img.shields.io/badge/MySQL-0a0f1e?style=for-the-badge&logo=mysql&logoColor=00d4ff)
-
-**AI / ML / Automation**
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0a0f1e?style=for-the-badge&logo=scikitlearn&logoColor=00d4ff)
-![Pandas](https://img.shields.io/badge/Pandas-0a0f1e?style=for-the-badge&logo=pandas&logoColor=00d4ff)
-![NumPy](https://img.shields.io/badge/NumPy-0a0f1e?style=for-the-badge&logo=numpy&logoColor=00d4ff)
-![n8n](https://img.shields.io/badge/n8n-0a0f1e?style=for-the-badge&logo=n8n&logoColor=00d4ff)
-![Gemini](https://img.shields.io/badge/Gemini_API-0a0f1e?style=for-the-badge&logo=google&logoColor=00d4ff)
-
-**BI & Databases**
-
-![Power BI](https://img.shields.io/badge/Power_BI-0a0f1e?style=for-the-badge&logo=powerbi&logoColor=00d4ff)
-![Excel](https://img.shields.io/badge/Excel-0a0f1e?style=for-the-badge&logo=microsoftexcel&logoColor=00d4ff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0f1e?style=for-the-badge&logo=postgresql&logoColor=00d4ff)
-![Streamlit](https://img.shields.io/badge/Streamlit-0a0f1e?style=for-the-badge&logo=streamlit&logoColor=00d4ff)
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                        PROJECTS                           -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## `< Projects />`
 
 <br/>
 
@@ -113,8 +116,8 @@
 
 ---
 
-### [automated-data-governor](https://github.com/lakshyaverma2004/automated_data_governer)
-`Python` `PostgreSQL` `n8n`
+**[automated-data-governor](https://github.com/lakshyaverma2004/automated_data_governer)**
+&nbsp;·&nbsp; `Python` `PostgreSQL` `n8n`
 
 Audits PostgreSQL databases for missing entries and data quality issues. Engineered automated n8n workflows that trigger real-time alerts and SQL-based integrity reports for proactive database stewardship.
 
@@ -125,17 +128,17 @@ Audits PostgreSQL databases for missing entries and data quality issues. Enginee
 
 ---
 
-### [invoice-data-extraction](https://github.com/lakshyaverma2004/Invoice-Data-Extraction)
-`n8n` `Google Gemini` `Google Drive` `Google Sheets` `OCR`
+**[invoice-data-extraction](https://github.com/lakshyaverma2004/Invoice-Data-Extraction)**
+&nbsp;·&nbsp; `n8n` `Google Gemini` `Google Drive` `Google Sheets` `OCR`
 
 Fully automated AI pipeline that monitors a Google Drive folder, reads incoming PDF and image invoices, extracts structured fields using Gemini, and logs results directly to Google Sheets — zero manual effort.
 
-**Highlights:** AI-powered extraction · Smart PDF vs image routing · Full OCR support
+`AI-powered extraction` · `Smart PDF vs image routing` · `Full OCR support`
 
 ---
 
-### [nl-to-sql-query-bot](https://github.com/lakshyaverma2004/natural-language-to-sql-query-n8n-bot)
-`Gemini API` `n8n` `PostgreSQL` `LLMs`
+**[nl-to-sql-query-bot](https://github.com/lakshyaverma2004/natural-language-to-sql-query-n8n-bot)**
+&nbsp;·&nbsp; `Gemini API` `n8n` `PostgreSQL` `LLMs`
 
 AI agent that converts natural language prompts into optimized SQL queries. Fine-tuned with error analysis and data curation pipelines to maximize output precision.
 
@@ -146,42 +149,42 @@ AI agent that converts natural language prompts into optimized SQL queries. Fine
 
 ---
 
-### [financial-analytics](https://github.com/lakshyaverma2004/Financial_analytics)
-`Excel` `Pivot Tables` `Power Query` `KPI Tracking`
+**[financial-analytics](https://github.com/lakshyaverma2004/Financial_analytics)**
+&nbsp;·&nbsp; `Excel` `Pivot Tables` `Power Query` `KPI Tracking`
 
 End-to-end Excel business analytics for Atliq Hardwares — customer performance reports, market vs target comparisons, and full P&L statements by fiscal year, market, and month.
 
-**Net sales tracked: 87.5M → 598.9M**
+`Net sales tracked: 87.5M → 598.9M` · `Customer, market & profitability reports`
 
 ---
 
-### [hospitality-analytics-eda](https://github.com/lakshyaverma2004/EDA-in-hospitality-domain-using-python)
-`Python` `Pandas` `NumPy` `Matplotlib`
+**[hospitality-analytics-eda](https://github.com/lakshyaverma2004/EDA-in-hospitality-domain-using-python)**
+&nbsp;·&nbsp; `Python` `Pandas` `NumPy` `Matplotlib`
 
 EDA on hospitality datasets surfacing revenue trends and booking patterns. Statistical visualizations and cleaned dataset exports ready for decision-making.
 
 ```
-  Data processing      ████████████████████░░░░░░░░░░  -40%
+  Data processing time ████████████████████░░░░░░░░░░  -40%
   Data preparation     ████████████████████░░░░░░░░░░  -30%
 ```
 
 ---
 
-### [executive-adhoc-analysis](https://github.com/lakshyaverma2004/automated_data_governer)
-`SQL` `MySQL` `MS SQL Server`
+**[executive-adhoc-analysis](https://github.com/lakshyaverma2004/automated_data_governer)**
+&nbsp;·&nbsp; `SQL` `MySQL` `MS SQL Server`
 
 Complex SQL queries on a 1M+ row consumer goods dataset resolving 10 high-priority business questions for C-suite stakeholders.
 
-**1M+ rows queried · 55% faster reporting turnaround**
+`1M+ rows queried` · `55% faster reporting turnaround`
 
 ---
 
-### [TradingDATA-insights — predictive-ml-model](https://github.com/lakshyaverma2004/TradingDATA-insights-generation-predicctive-ml-model)
-`Python` `scikit-learn` `Streamlit` `K-Means` `Random Forest`
+**[TradingDATA-insights — predictive-ml-model](https://github.com/lakshyaverma2004/TradingDATA-insights-generation-predicctive-ml-model)**
+&nbsp;·&nbsp; `Python` `scikit-learn` `Streamlit` `K-Means` `Random Forest`
 
 Analyzed 211K+ Hyperliquid trader fills across Bitcoin Fear & Greed sentiment regimes. K-Means segmentation identified three trader archetypes; Random Forest achieved 94% hold-out accuracy predicting next-day PnL direction.
 
-**211K rows · 3 trader archetypes · 94% accuracy**
+`211K rows` · `3 trader archetypes` · `94% hold-out accuracy`
 
 <br/>
 
@@ -190,6 +193,12 @@ Analyzed 211K+ Hyperliquid trader fills across Bitcoin Fear & Greed sentiment re
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
+
+**`─────────────────── FULL STACK ───────────────────`**
+
+</div>
+
+<br/>
 
 ```bash
 $ cat stack.txt
@@ -205,13 +214,11 @@ $ cat education.txt
 
 Degree      │  B.Tech CSE (AI/ML)
 Institute   │  Manipal Institute of Technology
-Year        │  2027
+Graduation  │  2027
 
-$ echo "Open to internships and collab"
-Open to internships and collab
+$ echo "Open to internships and collaboration"
+Open to internships and collaboration
 ```
-
-</div>
 
 <br/>
 
@@ -225,10 +232,10 @@ Open to internships and collab
 
 <br/><br/>
 
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=lakshyaverma2004.lakshyaverma2004&left_color=0a0f1e&right_color=00d4ff&left_text=Profile%20Views)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=lakshyaverma2004.lakshyaverma2004&left_color=0f172a&right_color=1e3a5f&left_text=Profile%20Views&labelColor=38bdf8)
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a2a4a,50:0d1f3c,100:0a0f1e&height=130&section=footer&text=Build.%20Analyze.%20Automate.&fontSize=20&fontColor=00d4ff&fontAlignY=55&desc=vermalakshya12%40gmail.com&descSize=13&descColor=7dd3fc&descAlignY=78" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1e,100:0f172a&height=80&section=footer&text=Build.%20Analyze.%20Automate.&fontSize=18&fontColor=38bdf8&fontAlignY=50&desc=vermalakshya12%40gmail.com%20%20%7C%20%20Open%20to%20Opportunities&descSize=12&descColor=64748b&descAlignY=75" width="100%"/>
 
 </div>
