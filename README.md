@@ -27,31 +27,24 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    CONTRIBUTION SNAKE                      -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lakshyaverma2004/lakshyaverma2004/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lakshyaverma2004/lakshyaverma2004/output/github-contribution-grid-snake.svg"/>
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lakshyaverma2004/lakshyaverma2004/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-  </picture>
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                       METRICS ROW                         -->
+<!--           METRICS + ACTIVITY GRAPH SECTION                -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-```
-╔══════════════╦══════════════╦══════════════╦══════════════╗
-║   PROJECTS   ║  INTERNSHIPS ║ ROWS ANALYZED║  TIME SAVED  ║
-║      6       ║      2       ║    1 M +     ║    ~ 50 %    ║
-╚══════════════╩══════════════╩══════════════╩══════════════╝
-```
+<!-- Animated metric counters via shields -->
+<img src="https://img.shields.io/badge/PROJECTS-6-00d4ff?style=for-the-badge&labelColor=0a0f1e&color=0d1f3c&logo=buffer&logoColor=00d4ff"/>
+&nbsp;
+<img src="https://img.shields.io/badge/INTERNSHIPS-2-00d4ff?style=for-the-badge&labelColor=0a0f1e&color=0d1f3c&logo=briefcase&logoColor=00d4ff"/>
+&nbsp;
+<img src="https://img.shields.io/badge/ROWS%20ANALYZED-1M%2B-00d4ff?style=for-the-badge&labelColor=0a0f1e&color=0d1f3c&logo=databricks&logoColor=00d4ff"/>
+&nbsp;
+<img src="https://img.shields.io/badge/AVG%20TIME%20SAVED-~50%25-00d4ff?style=for-the-badge&labelColor=0a0f1e&color=0d1f3c&logo=speedtest&logoColor=00d4ff"/>
+
+<br/><br/>
+
+<!-- Activity graph sits directly under the metric badges -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshyaverma2004&bg_color=0a0f1e&color=00d4ff&line=1e4a6e&point=00d4ff&area=true&area_color=0d2a45&border_color=1a3a5c&radius=12&hide_border=false&custom_title=Commit%20Activity" width="100%"/>
 
 </div>
 
@@ -67,12 +60,6 @@
 &nbsp;&nbsp;
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyaverma2004&layout=compact&theme=transparent&bg_color=0a0f1e&title_color=00d4ff&text_color=7dd3fc&icon_color=00d4ff&border_color=1a3a5c&border_radius=12&hide_border=false&langs_count=6"/>
 
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshyaverma2004&theme=transparent&background=0a0f1e&ring=00d4ff&fire=38bdf8&currStreakLabel=00d4ff&sideLabels=7dd3fc&currStreakNum=ffffff&sideNums=ffffff&dates=7dd3fc&border=1a3a5c&border_radius=12" width="55%"/>
 </div>
 
 <br/>
@@ -195,18 +182,6 @@ Complex SQL queries on a 1M+ row consumer goods dataset resolving 10 high-priori
 Analyzed 211K+ Hyperliquid trader fills across Bitcoin Fear & Greed sentiment regimes. K-Means segmentation identified three trader archetypes; Random Forest achieved 94% hold-out accuracy predicting next-day PnL direction.
 
 **211K rows · 3 trader archetypes · 94% accuracy**
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                     ACTIVITY GRAPH                        -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshyaverma2004&bg_color=0a0f1e&color=00d4ff&line=1a3a5c&point=00d4ff&area=true&area_color=0d1f3c&border_color=1a3a5c&radius=12" width="100%"/>
-
-</div>
 
 <br/>
 
