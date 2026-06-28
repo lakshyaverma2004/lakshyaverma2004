@@ -50,14 +50,12 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                     GITHUB STATS                          -->
+<!--                        BANNER GIF                         -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=lakshyaverma2004&show_icons=true&theme=transparent&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8&border_color=1e3a5f&border_radius=6&hide_border=false&rank_icon=github&count_private=true"/>
-&nbsp;&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyaverma2004&layout=compact&theme=transparent&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8&border_color=1e3a5f&border_radius=6&hide_border=false&langs_count=6"/>
+<img src="Asta%20Black%20Clover%20GIF%20-%20Asta%20Black%20Clover%20Flexion%20-%20Discover%20%26%20Share%20GIFs.gif" width="480" alt="Asta"/>
 
 </div>
 
