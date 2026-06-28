@@ -9,7 +9,7 @@
 <br/>
 
 <!-- Cycling taglines — business tone -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&height=40&lines=Transforming+raw+data+into+executive-grade+decisions;Automating+workflows+that+reclaim+engineering+hours;1M%2B+rows+queried+%7C+50%25+avg+operational+overhead+cut;NL+%E2%86%92+SQL+%E2%86%92+Decisions%2C+in+seconds;Precision+ML+pipelines+from+ingestion+to+insight" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&height=40&lines=Transforming+raw+data+into+executive-grade+decisions;Automating+workflows+that+reclaim+engineering+hours;1M%2B+rows+queried+%7C+50%25+avg+operational+overhead+cut;NL+%E2%86%92+SQL+%E2%86%92+Decisions%2C+in+seconds;Event-study+%26+time-series+analytics+on+live+markets;Precision+ML+pipelines+from+ingestion+to+insight" alt="Typing SVG"/>
 
 <br/><br/>
 
@@ -79,14 +79,21 @@
 
 <img src="https://img.shields.io/badge/Pandas-0f172a?style=flat-square&logo=pandas&logoColor=38bdf8"/>
 <img src="https://img.shields.io/badge/NumPy-0f172a?style=flat-square&logo=numpy&logoColor=38bdf8"/>
+<img src="https://img.shields.io/badge/SciPy-0f172a?style=flat-square&logo=scipy&logoColor=38bdf8"/>
+<img src="https://img.shields.io/badge/scikit--learn-0f172a?style=flat-square&logo=scikitlearn&logoColor=38bdf8"/>
 <img src="https://img.shields.io/badge/Matplotlib-0f172a?style=flat-square&logo=plotly&logoColor=38bdf8"/>
+<img src="https://img.shields.io/badge/Seaborn-0f172a?style=flat-square&logo=python&logoColor=38bdf8"/>
+<img src="https://img.shields.io/badge/Plotly-0f172a?style=flat-square&logo=plotly&logoColor=38bdf8"/>
+<img src="https://img.shields.io/badge/Streamlit-0f172a?style=flat-square&logo=streamlit&logoColor=38bdf8"/>
+<img src="https://img.shields.io/badge/Power_BI-0f172a?style=flat-square&logo=powerbi&logoColor=38bdf8"/>
+<img src="https://img.shields.io/badge/DAX_Studio-0f172a?style=flat-square&logo=microsoftpowerpoint&logoColor=38bdf8"/>
+<img src="https://img.shields.io/badge/Excel-0f172a?style=flat-square&logo=microsoftexcel&logoColor=38bdf8"/>
+<img src="https://img.shields.io/badge/MS_SQL_Server-0f172a?style=flat-square&logo=microsoftsqlserver&logoColor=38bdf8"/>
 <img src="https://img.shields.io/badge/n8n-0f172a?style=flat-square&logo=n8n&logoColor=38bdf8"/>
 <img src="https://img.shields.io/badge/Gemini_API-0f172a?style=flat-square&logo=google&logoColor=38bdf8"/>
-<img src="https://img.shields.io/badge/Power_BI-0f172a?style=flat-square&logo=powerbi&logoColor=38bdf8"/>
-<img src="https://img.shields.io/badge/Excel-0f172a?style=flat-square&logo=microsoftexcel&logoColor=38bdf8"/>
-<img src="https://img.shields.io/badge/Streamlit-0f172a?style=flat-square&logo=streamlit&logoColor=38bdf8"/>
-<img src="https://img.shields.io/badge/DAX_Studio-0f172a?style=flat-square&logo=microsoftpowerpoint&logoColor=38bdf8"/>
-<img src="https://img.shields.io/badge/MS_SQL_Server-0f172a?style=flat-square&logo=microsoftsqlserver&logoColor=38bdf8"/>
+<img src="https://img.shields.io/badge/yfinance-0f172a?style=flat-square&logo=yahoo&logoColor=38bdf8"/>
+<img src="https://img.shields.io/badge/FRED-0f172a?style=flat-square&logo=federalreserve&logoColor=38bdf8"/>
+<img src="https://img.shields.io/badge/StatsBomb-0f172a?style=flat-square&logo=soccerball&logoColor=38bdf8"/>
 
 </div>
 
@@ -103,8 +110,8 @@
 
 <br/>
 
-<!-- All 7 project names cycle here, one by one -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2200&pause=900&color=38BDF8&center=true&vCenter=true&width=760&height=50&lines=automated-data-governor;invoice-data-extraction;nl-to-sql-query-bot;financial-analytics;hospitality-analytics-eda;executive-adhoc-analysis;TradingDATA-insights+%E2%80%94+predictive-ml" alt="Projects cycling"/>
+<!-- All project names cycle here, one by one -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2200&pause=900&color=38BDF8&center=true&vCenter=true&width=760&height=50&lines=el-mundial-26+%E2%80%94+live-world-cup-analytics;iran-energy-analysis+%E2%80%94+oil-event-study;automated-data-governor;invoice-data-extraction;nl-to-sql-query-bot;financial-analytics;hospitality-analytics-eda;executive-adhoc-analysis;TradingDATA-insights+%E2%80%94+predictive-ml" alt="Projects cycling"/>
 
 </div>
 
@@ -124,12 +131,15 @@
 ```bash
 $ cat stack.txt
 
-Language    │  Python (Pandas, NumPy, Matplotlib) · SQL
+Language    │  Python (Pandas, NumPy, SciPy, Matplotlib, Seaborn, Plotly) · SQL
 BI Tools    │  Power BI · DAX Studio · Excel (Pivot Tables, Power Query)
 Databases   │  MySQL · PostgreSQL · MS SQL Server
 Automation  │  n8n · Google Drive API · Google Sheets API
-AI / ML     │  Gemini API · Feature Engineering · EDA · Random Forest · K-Means
-Other       │  Git · Streamlit · Tally ERP · GST Software
+AI / ML     │  scikit-learn (Logistic Regression · Random Forest · K-Means)
+            │  Feature Engineering · EDA · Gemini API
+Quant / TS  │  Event-Study Methodology · Time-Series Analysis · Volatility & CAR
+Data APIs   │  yfinance · FRED (fredapi) · StatsBomb (statsbombpy) · football-data.org
+Other       │  Git · Streamlit · mplsoccer · Tally ERP · GST Software
 
 $ cat education.txt
 
